@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0238-product-of-array-except-self) |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
