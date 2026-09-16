@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
