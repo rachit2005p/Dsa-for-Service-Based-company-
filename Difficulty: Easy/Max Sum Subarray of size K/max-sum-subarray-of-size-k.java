@@ -1,17 +1,14 @@
 class Solution {
-    public int maxSubarraySum(int[] arr, int k) {
-        // Code here
-        int ans=0;
-        for(int i=0;i<k;i++){
-            ans+=arr[i];
-        }
-        int maxsum=0;maxsum=ans;
-        for(int j=k;j<arr.length;j++){
-                
-                ans=ans-arr[j-k];
-                ans=ans+arr[j];
-                maxsum=Math.max(maxsum,ans);
-            
-        }return maxsum;
-    }
+	public int maxSubarraySum(int[] arr, int k) {
+		// Code here
+		int sum = 0;
+		for (int i = 0; i<k; i++) {
+			sum += arr[i];
+		} int maxx = sum;
+		for (int i = 0; i<arr.length - k; i++) {
+			sum = sum - arr[i];
+			sum += arr[i + k];
+			maxx=Math.max(sum, maxx);
+		} return maxx;
+	}
 }
