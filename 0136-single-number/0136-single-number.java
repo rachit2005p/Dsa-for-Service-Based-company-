@@ -1,8 +1,14 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int sum =0;
-        for(int ele:nums){
-            sum^=ele;
-        }return sum;
+       HashMap<Integer ,Integer> map = new HashMap<>();
+       for(int i =0;i<nums.length;i++){        
+            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+        }
+
+        for(int ele:map.keySet()){
+            if(map.get(ele)==1){
+                return ele;
+            }
+        }return -1;
     }
 }
