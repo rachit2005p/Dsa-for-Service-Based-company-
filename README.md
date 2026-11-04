@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0268-missing-number) |
 ## Bit Manipulation
