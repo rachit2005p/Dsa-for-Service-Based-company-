@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/rachit2005p/Dsa-for-Service-Based-company-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
